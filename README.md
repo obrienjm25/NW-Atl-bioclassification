@@ -60,7 +60,7 @@ The code in this repository was used to produce the results and figures in the a
 
 O'Brien JM, Stanley RRE, Jeffery NW, Heaslip SG, DiBacco C, Wang Z 	(accepted) Modelling demersal fish and benthic invertebrate 	assemblages in support of marine conservation planning. _Ecol Appl_
 
-A Zenodo DOI is also available for the most recent release of __ NW-Atl-bioclassification__:
+A Zenodo DOI is also available for the most recent release of __NW-Atl-bioclassification__:
 
 ---
 
@@ -68,9 +68,9 @@ A Zenodo DOI is also available for the most recent release of __ NW-Atl-bioclass
 
 Corresponding Developer: 
 
-John O’Brien 
-<https://github.com/obrienjm25>
-<John.Obrien@dfo-mpo.gc.ca>
+John O’Brien  
+Github: <https://github.com/obrienjm25>  
+Email: <John.Obrien@dfo-mpo.gc.ca>
 
 ---
 
